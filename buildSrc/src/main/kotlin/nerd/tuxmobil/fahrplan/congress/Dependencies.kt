@@ -15,7 +15,7 @@ object Versions {
     val proguardGradle = "6.0.3"
     val snackengage = "0.18"
     val sonarQubeGradle = "2.6.2"
-    val supportLibrary = "26.1.0"
+    val supportLibrary = "28.0.0"
     val testRules = "1.0.2"
     val threeTenBp = "1.3.8"
     val tracedroid = "1.4"
@@ -24,7 +24,7 @@ object Versions {
 
 object Android {
     val buildToolsVersion = "28.0.3"
-    val compileSdkVersion = 26
+    val compileSdkVersion = 28
     val minSdkVersion = 14
     val targetSdkVersion = 26
 }
