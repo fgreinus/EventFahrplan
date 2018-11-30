@@ -1,3 +1,3 @@
 plugins {
-    id("org.gradle.kotlin.kotlin-dsl") version "0.18.2"
+    id("org.gradle.kotlin.kotlin-dsl") version "1.0.4"
 }
