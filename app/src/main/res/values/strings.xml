@@ -20,6 +20,8 @@
     <string name="menu_item_title_settings">@string/settings</string>
     <string name="menu_item_title_share_event">Share event</string>
     <string name="menu_item_title_share_favorites">Share favorites</string>
+    <string name="menu_item_title_search">Search</string>
+    <string name="menu_item_title_search_hint">Search for something...</string>
 
     <!-- AlertDialogHelper -->
     <string name="OK">OK</string>
